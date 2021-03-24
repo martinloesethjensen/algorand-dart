@@ -54,8 +54,8 @@ algorand.assetManager.createAsset(
 
 You can install the package via pub.dev:
 
-```bash
-algorand_dart: ^0.0.1-dev.1
+```yaml
+algorand_dart: ^0.0.2-beta.3
 ```
 
 > **Note**: Algorand-dart requires Dart >=2.12.0 & null safety
